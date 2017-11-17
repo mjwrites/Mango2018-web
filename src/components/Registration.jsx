@@ -204,13 +204,13 @@ class Main extends React.Component {
           <div className="content">
             <h2>2018</h2>
             <header>MangoHacks</header>
-            <p className="slogan">"You're all set"</p>
+            <p className="slogan">It's live... and so is registration!</p>
             <div className="info-2">
-              <p>That's it!</p>
-              <p>Thanks for registering for MangoHacks 2018!
-                Be on the lookout for an email confirming your spot.<br></br>
-                In the mean time, be sure to like us on facebook, follow us on Twitter, check out our over-filtered photos on Instagram, save our mood board on Pinterest, connect with us on LinkedIn, add us on Snapchat...I forgot where I was going with this. Oh yeah! Catch us online for real time news and updates!</p>
-              <p><i>MangoHacks is organized by students for students.</i></p>
+              <p>You can now register for MangoHacks 2018!</p>
+              <p>We're ready for you if you're ready for us.<br></br>
+                The team is very excited to have you down in sunny Miami.
+                Just be sure to fill out the registration form to confirm your spot (and your shirts), in Miami's sweetest hackathon, see you soon!</p>
+              <p><i>Did we miss a social media handle? Reach out at team@mangohacks.com</i></p>
             </div>
           </div>
         </div>
