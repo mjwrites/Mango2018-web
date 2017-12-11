@@ -205,14 +205,13 @@ class Main extends React.Component {
             <h2>2018</h2>
             <header>MangoHacks</header>
             <p className="slogan">It's live... and so is registration!</p>
-            <div className="info-2">
+
               <p>You can now register for MangoHacks 2018!</p>
               <p>We're ready for you if you're ready for us.<br></br>
                 The team is very excited to have you down in sunny Miami.
                 Just be sure to fill out the registration form to confirm your spot (and your shirts), in Miami's sweetest hackathon, see you soon!</p>
-              <p><i>Did we miss a social media handle? Reach out at team@mangohacks.com</i></p>
+              <p><i>Have a question? Reach out at team@mangohacks.com</i></p>
             </div>
-          </div>
         </div>
       </div>
     );

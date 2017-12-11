@@ -204,20 +204,13 @@ class Main extends React.Component {
           <div className="content">
             <h2>2018</h2>
             <header>MangoHacks</header>
-            <p className="slogan">"I have no idea what I'm doing."</p>
-            <div className="info-2">
-              <p>And that's okay! We're here to help.</p>
-              <p>Our organizers here at MangoHacks have created some articles and tutorials to help you!<br></br>
-                Experience, background, majors, they don't matter here. Hackathons are a place where everyone should have the opportunity to learn and grow.<br></br>
-                We have great mentors, and wonderful sponsors that are here to help you create amazing things.</p><br></br>
-              <p>Our Marketing and Finance Manager, MJ, wrote an article for students of all majors on how
-                 to get involved in hackathons and the tech community; even if you "don't know how to code." Be sure to check it out <a href="https://medium.com/mangohacks/but-i-dont-know-how-to-code-8c5c0b83ec27">here!</a></p><br></br>
-              <p>How does someone pivot from Track and Field and Football to Computer Science?
-                MangoHacks alumnus, Joannier, wrote an article about his journey and how he went from new developer to a full-time
-                offer from a big tech company. Read it <a href="link">here!</a></p><br></br>
-              <p>Cesi's</p><br></br>
-              <p><i>Need more help? We have the resources! Reach out to team@mangohacks.com</i></p>
-            </div>
+            <p className="slogan">"You're all set"</p>
+              <p>That's it!</p>
+              <p>Thanks for registering for MangoHacks 2018!
+                Be on the lookout for an email confirming your spot.<br></br>
+                In the mean time, be sure to like us on facebook, follow us on Twitter, check out our over-filtered photos on Instagram, save our mood board on Pinterest, connect with us on LinkedIn, add us on Snapchat...I forgot where I was going with this. Oh yeah! Catch us online for real time news and updates!</p>
+              <p><i>Did we miss a social media handle? Let us know! team@mangohacks.com</i></p>
+
           </div>
         </div>
       </div>
